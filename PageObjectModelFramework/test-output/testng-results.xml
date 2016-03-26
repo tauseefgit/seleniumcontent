@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25198" started-at="2016-03-06T08:10:51Z" finished-at="2016-03-06T08:11:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25198" started-at="2016-03-06T08:10:51Z" finished-at="2016-03-06T08:11:16Z">
+      <class name="com.appname.functionaltests.SC_005">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.appname.functionaltests.SC_005@1fd484c3]" name="beforeSuite" is-config="true" duration-ms="134" started-at="2016-03-06T13:40:51Z" finished-at="2016-03-06T13:40:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.appname.functionaltests.SC_005@1fd484c3]" name="beforeClass" is-config="true" duration-ms="23682" started-at="2016-03-06T13:40:51Z" finished-at="2016-03-06T13:41:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testTC_024()[pri:0, instance:com.appname.functionaltests.SC_005@1fd484c3]" name="testTC_024" duration-ms="1483" started-at="2016-03-06T13:41:15Z" finished-at="2016-03-06T13:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC_024 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.appname.functionaltests.SC_005@1fd484c3]" name="afterClass" is-config="true" duration-ms="19" started-at="2016-03-06T13:41:16Z" finished-at="2016-03-06T13:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.appname.functionaltests.SC_005@1fd484c3]" name="afterSuite" is-config="true" duration-ms="0" started-at="2016-03-06T13:41:16Z" finished-at="2016-03-06T13:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.appname.functionaltests.SC_005 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

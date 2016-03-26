@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="57337" started-at="2016-03-06T08:59:34Z" finished-at="2016-03-06T09:00:31Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="57337" started-at="2016-03-06T08:59:34Z" finished-at="2016-03-06T09:00:31Z">
+      <class name="com.appname.functionaltests.SC_001">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.appname.functionaltests.SC_001@60b25809]" name="beforeClass" is-config="true" duration-ms="30992" started-at="2016-03-06T14:29:34Z" finished-at="2016-03-06T14:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testTC_01()[pri:0, instance:com.appname.functionaltests.SC_001@60b25809]" name="testTC_01" duration-ms="528" started-at="2016-03-06T14:30:05Z" finished-at="2016-03-06T14:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC_01 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.appname.functionaltests.SC_001@60b25809]" name="afterClass" is-config="true" duration-ms="14" started-at="2016-03-06T14:30:05Z" finished-at="2016-03-06T14:30:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.appname.functionaltests.SC_001 -->
+      <class name="com.appname.functionaltests.SC_005">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.appname.functionaltests.SC_005@447ec736]" name="beforeSuite" is-config="true" duration-ms="244" started-at="2016-03-06T14:29:33Z" finished-at="2016-03-06T14:29:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.appname.functionaltests.SC_005@447ec736]" name="beforeClass" is-config="true" duration-ms="24551" started-at="2016-03-06T14:30:05Z" finished-at="2016-03-06T14:30:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="testTC_024()[pri:0, instance:com.appname.functionaltests.SC_005@447ec736]" name="testTC_024" duration-ms="1199" started-at="2016-03-06T14:30:30Z" finished-at="2016-03-06T14:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testTC_024 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.appname.functionaltests.SC_005@447ec736]" name="afterClass" is-config="true" duration-ms="18" started-at="2016-03-06T14:30:31Z" finished-at="2016-03-06T14:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.appname.functionaltests.SC_005@447ec736]" name="afterSuite" is-config="true" duration-ms="1" started-at="2016-03-06T14:30:31Z" finished-at="2016-03-06T14:30:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.appname.functionaltests.SC_005 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
